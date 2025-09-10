@@ -1,5 +1,6 @@
 body {
     background-color: #3F422D;
+    color: blanchedalmond;
 }
 
 img {
@@ -72,3 +73,59 @@ nav ul {
     color: #D9A918;
     background-color: #8C1501;
   }
+
+  .multi-col {
+    display: flex;
+  }
+
+  section, 
+  aside{
+    padding: 10px;
+    margin: 10px;
+    border: 4px solid #593B02;
+  }
+
+  section {
+    width: 75%;
+  }
+
+  section img {
+    width: 65%;
+  }
+
+  aside {
+    width: 30%;
+    height: 30%;
+  }
+ 
+main h2 {
+    color: blanchedalmond;
+    font-weight: bold;
+    text-align: center;
+}
+
+main h3 {
+    text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+hr {
+  color: #593B02;
+  background-color: #593B02; 
+  height: 2px;
+}
+
+.img_style {
+  width: 50%;
+  border: 2px solid #593B02;
+  border-radius: 10px;
+}
+
+.img_style2 {
+  width: 75%;
+  border: 2px solid #593B02;
+  border-radius: 10px;
+}
