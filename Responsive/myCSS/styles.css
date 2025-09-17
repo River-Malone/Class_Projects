@@ -59,7 +59,7 @@ header img {
   }
   }
 
-  img_style {
+  .img_style {
   width: 50%;
   border: 2px solid #593B02;
   border-radius: 10px;
