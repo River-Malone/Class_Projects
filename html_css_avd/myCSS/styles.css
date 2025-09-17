@@ -78,8 +78,7 @@ nav ul {
     display: flex;
   }
 
-  section, 
-  aside{
+  section, aside {
     padding: 10px;
     margin: 10px;
     border: 4px solid #593B02;
