@@ -6,4 +6,5 @@
     <li><a href="html_css_avd/index.html" target="_Blank">HTML CSS Advanced</a></li>
     <li><a href="html_css_avd/index.html" target="_Blank">HTML CSS Advanced</a></li>
     <li><a href="Responsive/index.html" target="_Blank">Responsive</a></li>
+    <li><a href="Final_Project/index.html" target="_Blank">Final Project</a></li>
 </ul>
